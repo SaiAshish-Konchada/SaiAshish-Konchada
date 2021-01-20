@@ -11,10 +11,10 @@
 <a href="mailto:saiashishkonchada@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sai-ashish/)
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">](Youtube)
-[<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](Medium)
+[<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@saiashishkonchada)
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/theinsightfulcoder)
 <a href="https://dev.to/saiashish">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sai Ashish's DEV Community Profile" height="30" width="30">
+  <img src="https://img.shields.io/badge/-DEV-black?&style=for-the-badge&logo=DEV&logoColor=white" alt="Sai Ashish's DEV Community Profile" height="30" width="30">
 </a>
 <br />
 <hr />
