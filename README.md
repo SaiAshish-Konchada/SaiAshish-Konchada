@@ -14,7 +14,7 @@
 [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](Medium)
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/theinsightfulcoder)
 <a href="https://dev.to/saiashish">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sai Ashish's DEV Community Profile" height="33" width="33">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sai Ashish's DEV Community Profile" height="30" width="30">
 </a>
 <br />
 <hr />
