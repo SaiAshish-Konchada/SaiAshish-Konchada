@@ -1,4 +1,4 @@
-# Hello World, I'm [Sai Ashish Konchada](https://theinsightfulcoder.hashnode.dev/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hello World, I'm [Sai Ashish Konchada](https://theinsightfulcoder.com/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
 <img height="400" src="https://github.com/SaiAshish-Konchada/SaiAshish-Konchada/blob/main/code.gif"/>
@@ -7,7 +7,7 @@
   <b><i>Let's connect! Choose your favorite platform and say Hi</i></b> 🙋🏻‍♂️
 
 [<img height="30" src = "https://img.shields.io/github/followers/SaiAshish-Konchada?label=Follow&style=social">](https://github.com/SaiAshish-Konchada?tab=followers)
-[<img height="30" src= "https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />](https://theinsightfulcoder.hashnode.dev/)
+[<img height="30" src= "https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />](https://theinsightfulcoder.com/)
 <a href="mailto:saiashishkonchada@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sai-ashish/)
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">](Youtube)
