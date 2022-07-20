@@ -13,7 +13,6 @@
 <a href="mailto:saiashishkonchada@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
 [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://theinsightfulcoder.medium.com/)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/InsightfulCoder/)
-[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/theinsightfulcoder)
 <a href="https://dev.to/theinsightfulcoder">
   <img src="https://img.shields.io/badge/-DEV-black?&style=for-the-badge&logo=DEV&logoColor=white" alt="Sai Ashish's DEV Community Profile" height="30" width="30">
 </a>
@@ -24,13 +23,13 @@
 **SaiAshish-Konchada/SaiAshish-Konchada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Know me better:
-- 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning Data Structures & Algorithms.
-- 💬 Ask me about anything, I'm happy to help.
-- 🎯 2021 Goal: Mastering Competitive Programming
+- 🌐 I’m currently working as a Full Stack Developer
+- 💯 I’m currently creating content around Community, Tech & Finance
+- 💬 Ask me about anything, I'm happy to help
+- 🎯 2022 Goal: Building Personal Brand
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm a foodie!
-- 📄 [Resume](https://drive.google.com/file/d/1Kl3dHUtgI2D65gyLmrcsnGa97unSkLUa/view?usp=sharing)
+
 ## **Skills up my sleeve:**
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -40,6 +39,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <details open>
 <summary>📊 Github Stats</summary>
