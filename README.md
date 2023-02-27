@@ -8,7 +8,6 @@
 
 [<img height="30" width="120" src = "https://img.shields.io/github/followers/SaiAshish-Konchada?label=Follow&style=social">](https://github.com/SaiAshish-Konchada?tab=followers)
 [<img height="30" src= "https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />](https://theinsightfulcoder.com/)
-[<img height="30" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/theinsightfulcoder/)
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sai-ashish/)
 <a href="mailto:saiashishkonchada@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
 [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://theinsightfulcoder.medium.com/)
@@ -23,10 +22,10 @@
 **SaiAshish-Konchada/SaiAshish-Konchada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Know me better:
-- 🌐 I’m currently working as a Full Stack Developer
-- 💯 I’m currently creating content around Community, Tech & Finance
+- 🌐 I’m currently working as a Software Engineer
+- 💯 I’m currently creating content around Tech, Community & Finance
 - 💬 Ask me about anything, I'm happy to help
-- 🎯 2022 Goal: Building Personal Brand
+- 🎯 2023 Goal: Building Personal Brand
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm a foodie!
 
